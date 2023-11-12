@@ -1,0 +1,40 @@
+Added Component: Designator=1(Arduino)
+Added Component: Designator=2(CC2530)
+Added Component: Designator=3(DEBUG)
+Added Component: Designator=4(LLV)
+Added Pin To Net: NetName=GND Pin=1-53
+Added Pin To Net: NetName=GND Pin=2-5
+Added Pin To Net: NetName=GND Pin=3-29
+Added Pin To Net: NetName=GND Pin=4-56
+Added Pin To Net: NetName=GND Pin=4-61
+Added Net: Name=GND
+Added Pin To Net: NetName=Net1_49 Pin=1-49
+Added Net: Name=Net1_49
+Added Pin To Net: NetName=Net1_50 Pin=1-50
+Added Pin To Net: NetName=Net1_50 Pin=4-54
+Added Net: Name=Net1_50
+Added Pin To Net: NetName=Net1_51 Pin=1-51
+Added Pin To Net: NetName=Net1_51 Pin=2-6
+Added Pin To Net: NetName=Net1_51 Pin=3-33
+Added Pin To Net: NetName=Net1_51 Pin=4-55
+Added Net: Name=Net1_51
+Added Pin To Net: NetName=Net1_52 Pin=1-52
+Added Pin To Net: NetName=Net1_52 Pin=4-62
+Added Net: Name=Net1_52
+Added Pin To Net: NetName=Net2_7 Pin=2-7
+Added Pin To Net: NetName=Net2_7 Pin=3-30
+Added Net: Name=Net2_7
+Added Pin To Net: NetName=Net2_8 Pin=2-8
+Added Pin To Net: NetName=Net2_8 Pin=3-31
+Added Net: Name=Net2_8
+Added Pin To Net: NetName=Net2_24 Pin=2-24
+Added Pin To Net: NetName=Net2_24 Pin=4-63
+Added Net: Name=Net2_24
+Added Pin To Net: NetName=Net2_25 Pin=2-25
+Added Pin To Net: NetName=Net2_25 Pin=4-64
+Added Net: Name=Net2_25
+Added Pin To Net: NetName=Net2_28 Pin=2-28
+Added Pin To Net: NetName=Net2_28 Pin=3-32
+Added Net: Name=Net2_28
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1
