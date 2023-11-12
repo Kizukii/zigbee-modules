@@ -1,0 +1,12 @@
+Board type: CC2530
+Device type: Router
+Manufacturer name: User.sensor
+Model ID: Move_sensor_2
+Update firmware's timestamp : 2023-06-17
+Set default reporting interval (s): 3
+
+Output pins:
+P30: Output 2, GPIO (Role: Occupancy)
+
+Input pins:
+P06: Input 2, GPIO, Pull-down, Switch, Link to out 2 (Bind command: On/Off)

@@ -1,0 +1,10 @@
+Board type: CC2530
+Device type: End device without routing
+Manufacturer ID: 64447
+Manufacturer name: ptvo.info
+Model ID: ardino
+Update firmware's timestamp : 2023-06-11
+Set default reporting interval (s): 60
+
+Output pins:
+P02: Output 2, UART (Baud rate: 9600, Packet end: None, Byte: 239)
